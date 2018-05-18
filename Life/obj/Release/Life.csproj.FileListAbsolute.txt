@@ -1,0 +1,7 @@
+C:\Users\jasonsw\Desktop\C#\Life\Life\bin\Release\Life.exe.config
+C:\Users\jasonsw\Desktop\C#\Life\Life\bin\Release\Life.exe
+C:\Users\jasonsw\Desktop\C#\Life\Life\bin\Release\Life.pdb
+C:\Users\jasonsw\Desktop\C#\Life\Life\obj\Release\Life.csprojAssemblyReference.cache
+C:\Users\jasonsw\Desktop\C#\Life\Life\obj\Release\Life.csproj.CoreCompileInputs.cache
+C:\Users\jasonsw\Desktop\C#\Life\Life\obj\Release\Life.exe
+C:\Users\jasonsw\Desktop\C#\Life\Life\obj\Release\Life.pdb
